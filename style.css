@@ -1,0 +1,134 @@
+@media only screen and(max-width: 600px) {
+
+} 
+@keyframes anima {
+    from {
+        transform: translateX(-300px);
+    } 
+    to {
+        transform: translateX(0px);
+    }
+} 
+.tausta1 {
+    background-color: gray; 
+    width: 2950; 
+    height: 1000px; 
+    border-radius: 36px; 
+} 
+.otsikko1 {
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    animation-name: anima; 
+    color: black; 
+    font-family: arial; 
+    font-size: 100px; 
+    margin-left: 800px; 
+} 
+.a1 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    font-family: arial; 
+    margin-left: 800px; 
+}  
+.a2 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    font-family: arial; 
+    margin-left: 800px; 
+}  
+.a3 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    font-family: arial; 
+    margin-left: 800px; 
+}  
+.a4 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: black; 
+    font-size: 50px; 
+    font-family: arial; 
+    margin-left: 800px; 
+}  
+.nimi1 {
+    color: blue; 
+    transition: 2s; 
+} 
+.nimi1:hover {
+    color: red;
+} 
+.tausta2 {
+    background-color: black; 
+    width: 2950px; 
+    height: 500px; 
+    border-radius: 36px; 
+}  
+.otsikko2 {
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    animation-name: anima; 
+    color: white; 
+    font-family: arial; 
+    font-size: 100px; 
+    margin-left: 800px; 
+}  
+.nappi1 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: white; 
+    background-color: blue; 
+    border-radius: 8px; 
+    font-size: 50px; 
+    margin-left: 800px; 
+} 
+.nappi2 {
+    animation-duration: 2s; 
+    animation-name: anima; 
+    animation-iteration-count: 1; 
+    color: white; 
+    background-color: blue; 
+    border-radius: 8px; 
+    font-size: 50px; 
+    margin-left: 1000px; 
+} 
+.linkki1 {
+    color: white; 
+    text-decoration: none;
+    font-size: 50px; 
+    margin-left: 1200px; 
+} 
+.linkki2 {
+    color: white; 
+    text-decoration: none;
+    font-size: 50px; 
+    margin-left: 1200px; 
+} 
+.tausta3 {
+    background-color: gray; 
+    width: 2950px; 
+    height: 500px; 
+    border-radius: 36px; 
+} 
+.otsikko3 {
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    animation-name: anima; 
+    color: black; 
+    font-family: arial; 
+    font-size: 100px; 
+    margin-left: 800px;
+}
+.table1 {
+    margin-left: 1000px; 
+}
